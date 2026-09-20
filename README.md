@@ -1,11 +1,5 @@
 # FunnelRecon
- ______                      _ ____
- |  ____|                    | |  _ \\
- | |__ _   _ _ __  _ __   ___| | |_) |___  ___ ___  _ __
- |  __| | | | '_ \\| '_ \\ / _ \\ |  _ </ _ \\/ __/ _ \\| '_ \\
- | |  | |_| | | | | | | |  __/ | | \\ |  __/ (_| (_) | | | |
- |_|   \\__,_|_| |_|_| |_|\\___|_|_|  \\_\\___|\\___\\___/|_| |_|
-**FunnelRecon** — authorized URL reconnaissance by **SydneySpider**.
+<img width="799" height="357" alt="image" src="https://github.com/user-attachments/assets/9b32fc3e-c1d7-473d-92f5-38708867605d" />
 
 A bounded, rate-limited Go CLI that enumerates subdomains, probes live hosts, crawls pages, looks up historical URLs, inspects scoped JavaScript, and reports **unverified parameter heuristics**. It never sends exploitation payloads, submits forms, or prints extracted credential values.
 
