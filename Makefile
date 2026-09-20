@@ -1,0 +1,9 @@
+.PHONY: build test race vet
+build:
+	go build -o funnelrecon ./cmd/funnelrecon
+test:
+	go test ./...
+race:
+	go test -race ./...
+vet:
+	go vet ./...
